@@ -9,3 +9,8 @@ expected to watch them but don't want to.
 **_Background info:_** Such summarization tools exist and they take in audio transcripts to generate 
 their output summaries based on how much in detail the user requires. Very few resources that 
 summarize videos based on frame and images alone exist
+
+![image](https://github.com/ninadshetty4446/videozz/assets/123304741/54d32067-c63d-4e35-8381-5b2af9a5446a)
+
+
+![image](https://github.com/ninadshetty4446/videozz/assets/123304741/c5bcc10d-82cf-456e-b9f9-3283e30e6607)
