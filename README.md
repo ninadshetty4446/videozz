@@ -12,5 +12,9 @@ summarize videos based on frame and images alone exist
 
 ![image](https://github.com/ninadshetty4446/videozz/assets/123304741/54d32067-c63d-4e35-8381-5b2af9a5446a)
 
+![image](https://github.com/ninadshetty4446/videozz/assets/123304741/9fd79966-fa84-4008-bba2-13e19bcf8c4e)
+
+![image](https://github.com/ninadshetty4446/videozz/assets/123304741/1c315f50-5be4-4322-8646-c51263d15dfd)
+
 
 ![image](https://github.com/ninadshetty4446/videozz/assets/123304741/c5bcc10d-82cf-456e-b9f9-3283e30e6607)
